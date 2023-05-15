@@ -15,7 +15,7 @@
 
 ```
 mkdir -p ~/.local/share/fcitx5/themes/dracula
-git clone https://github.com/drbbr/fcitx5-dracula-theme.git ~/.local/share/fcitx5/themes/dracula
+git clone https://github.com/xiaobaiseven/fcitx5-dracula-theme.git ~/.local/share/fcitx5/themes/dracula
 ```
 
 修改配置文件：  
